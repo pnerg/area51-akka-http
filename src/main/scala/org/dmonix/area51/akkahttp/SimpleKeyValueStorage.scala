@@ -23,8 +23,8 @@ trait SimpleKeyProtocol extends SprayJsonSupport with DefaultJsonProtocol {
   * Supported operations and paths
   * PUT - v1/key/[keyname]
   * POST - v1/key/[keyname]
-  * DELETE- v1/keys/[keyname]
-  * GET- v1/keys/[keyname]
+  * DELETE- v1/key/[keyname]
+  * GET- v1/key/[keyname]
   * GET- v1/keys
   * @author Peter Nerg
   */
